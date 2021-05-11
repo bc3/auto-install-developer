@@ -7,6 +7,7 @@ choco install firefox -fy
 :::: Text editors / IDEs
 choco install visualstudiocode -fy
 choco install visualstudio2019community -fy
+choco install sql-server-management-studio -fy
 
 :::: Dev tools
 choco install git -fy
@@ -17,3 +18,6 @@ choco install powershell-core -fy
 choco install git-fork -fy
 choco install resharper-ultimate-all -fy
 choco install notepadplusplus -fy
+choco install mremoteng -fy
+choco install telnet -fy
+choco install procexp -fy

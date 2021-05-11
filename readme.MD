@@ -21,6 +21,7 @@ This is a list of the tools that will be installed automatically
 
 * Visual Studio Code
 * Visual Studio 2019 Community Edition
+* SQL Server Management Studio
 
 ### Tools
 
@@ -32,6 +33,9 @@ This is a list of the tools that will be installed automatically
 * Fork
 * Resharper ultimate
 * Notepad++
+* MRemote
+* Telnet
+* Process Explorer
 
 ## Disclamimer
 
