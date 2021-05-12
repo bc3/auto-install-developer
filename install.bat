@@ -21,3 +21,4 @@ choco install notepadplusplus -fy
 choco install mremoteng -fy
 choco install telnet -fy
 choco install procexp -fy
+choco install resharper-clt.portable -fy

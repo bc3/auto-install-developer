@@ -36,6 +36,7 @@ This is a list of the tools that will be installed automatically
 * MRemote
 * Telnet
 * Process Explorer
+* Resharper Command Line Tools (contains a nifty tool DupFinder)
 
 ## Disclamimer
 
