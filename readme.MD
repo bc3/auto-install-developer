@@ -17,11 +17,12 @@ This is a list of the tools that will be installed automatically
 * Firefox
 * Chrome
 
-### Text editors
+### IDE
 
 * Visual Studio Code
 * Visual Studio 2019 Community Edition
 * SQL Server Management Studio
+* Azure Data Studio (alternative to SSMS)
 
 ### Tools
 
@@ -37,6 +38,8 @@ This is a list of the tools that will be installed automatically
 * Telnet
 * Process Explorer
 * Resharper Command Line Tools (contains a nifty tool DupFinder)
+* poshgit
+* oh-my-posh
 
 ## Disclamimer
 

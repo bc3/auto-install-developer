@@ -8,7 +8,7 @@ choco install firefox -fy
 choco install visualstudiocode -fy
 choco install visualstudio2019community -fy
 choco install sql-server-management-studio -fy
-
+choco install azure-data-studio -fy
 :::: Dev tools
 choco install git -fy
 choco install nodejs.install -fy
@@ -22,3 +22,6 @@ choco install mremoteng -fy
 choco install telnet -fy
 choco install procexp -fy
 choco install resharper-clt.portable -fy
+choco install poshgit -fy
+choco install oh-my-posh -fy
+
